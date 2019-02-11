@@ -6,3 +6,4 @@ L'objectif étant de proposer des versions :
 - print pdf
 - ePub
 
+De travailler, à plusieurs (pour le moment à deux), suivant le principe du *liquid Book* et du *One Source Publishing*.
